@@ -1,3 +1,4 @@
 checking the first example of the git commit!!!
 CHANGE 1
 CHANGE 2
+CHANGE 3
